@@ -1,5 +1,5 @@
 const boi = " Psychology";
-const toi = "psyChology ";
+const toi = "psyChology                                     ";
 if (boi === toi) {
   console.log("asob boi toi amar valo lage na r");
 } else if (boi.toLowerCase().trim() === toi.toLowerCase().trim()) {
