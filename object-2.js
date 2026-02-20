@@ -8,3 +8,5 @@ const carrierPlan = {
   },
 };
 carrierPlan.work();
+console.log(carrierPlan.name);
+console.log(carrierPlan["location"]);
